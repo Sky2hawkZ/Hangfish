@@ -4,13 +4,13 @@
 
 	Build upon district overhaul, implment the functionality of Mastery of Districts into district overhaul
 
-- [] Foo #1
-- [] Foo #1
-- [] Foo #1
-- [] Foo #1
-- [] Foo #2
-- [] Foo #2
-- [] Foo #4
+- [ ] Foo #1
+- [ ] Foo #1
+- [ ] Foo #1
+- [ ] Foo #1
+- [ ] Foo #2
+- [ ] Foo #2
+- [ ] Foo #4
  
 
 ## Mod 2 - 
